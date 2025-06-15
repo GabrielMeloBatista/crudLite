@@ -7,7 +7,7 @@
      <!-- Propriedades para o pacote NuGet -->
     <IsPackable>true</IsPackable> <!-- Isso garante que o projeto será empacotável -->
     <PackageId>Surika.LiteDbCRUDLibrary</PackageId> <!-- Um nome único para seu pacote (ex: SuaEmpresa.LiteDbCRUDLibrary) -->
-    <Version>1.0.0</Version> <!-- Versão inicial do seu pacote. Use versionamento semântico. -->
+    <Version>1.0.1</Version> <!-- Versão inicial do seu pacote. Use versionamento semântico. -->
     <Authors>Gabriel Melo Batista</Authors> <!-- Seu nome ou o nome da sua empresa. -->
     <Company>Surika</Company> <!-- Opcional: Nome da sua empresa. -->
     <Description>Biblioteca genérica de CRUD para LiteDB com suporte a paginação.</Description> <!-- Uma breve descrição da sua biblioteca. -->
