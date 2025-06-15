@@ -1,7 +1,7 @@
 using LiteDB;
 using Microsoft.AspNetCore.Mvc;
 
-namespace LiteDbWebApp.Controllers
+namespace LiteDbCRUDLibrary.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
