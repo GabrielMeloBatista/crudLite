@@ -96,7 +96,15 @@ dotnet run
 
 ---
 
-## ✅ Saída Esperada
+## Usar Biblioteca
+```bash
+dotnet build --configuration Release
+dotnet pack --configuration Release
+```
+
+---
+
+## Saída Esperada
 
 ```
 ==== Teste CRUD com LiteDB ====
