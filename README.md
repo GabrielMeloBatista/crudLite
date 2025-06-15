@@ -100,7 +100,11 @@ dotnet run
 ```bash
 dotnet build --configuration Release
 dotnet pack --configuration Release
+dotnet nuget add source {Path/to/your/bin/Release/} --name "CrudLite"
 ```
+
+Em seu programa use:
+dotnet add package Surika.LiteDbCRUDLibrary --version 1.0.0 --source "CrudLite"
 
 ---
 
