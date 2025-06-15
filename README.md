@@ -21,6 +21,16 @@ Este projeto demonstra uma biblioteca C# para CRUD com [LiteDB](https://www.lite
 
 ---
 
+## 🌟 LiteDbCRUDLibrary
+A Biblioteca que facilita na utilização nos CRUD
+
+---
+
+## 🥐 LiteDbConsoleApp
+Só um exemplo de como funciona
+
+---
+
 ## 📦 Dependência
 
 * [.NET 9.0](https://dotnet.microsoft.com)
