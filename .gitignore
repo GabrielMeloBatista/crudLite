@@ -422,6 +422,8 @@ autom4te.cache/
 tarballs/
 test-results/
 *.db
+.github/
+.vscode/
 
 # Mac bundle stuff
 *.dmg

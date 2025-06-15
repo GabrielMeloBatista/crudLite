@@ -10,13 +10,22 @@ Este projeto demonstra uma biblioteca C# para CRUD com [LiteDB](https://www.lite
 ├── LiteDbCRUDLibrary
 │   ├── Attributes
 │   ├── Context
+│   ├── Controllers
 │   ├── Models
 │   ├── Repositories
 │   └── LiteDbCRUDLibrary.csproj
 │
-└── LiteDbConsoleApp
-    ├── Program.cs
-    └── LiteDbConsoleApp.csproj
+├── LiteDbConsoleApp
+│   ├── Program.cs
+│   └── LiteDbConsoleApp.csproj
+│
+└── LiteDbWebApp
+    ├── Controllers
+    ├── Models
+    ├── LiteDbWebApp.csproj
+    ├── LiteDbWebApp.http
+    ├── LiteDbWebApp.sln
+    └── Program.cs
 ```
 
 ---

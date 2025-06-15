@@ -10,4 +10,8 @@
     <ProjectReference Include="../LiteDbCRUDLibrary/LiteDbCRUDLibrary.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="9.0.1" />
+  </ItemGroup>
+
 </Project>
